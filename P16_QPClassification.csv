@@ -1,0 +1,37 @@
+,Comments/suggestions
+Instructor,"An interesting project idea with excellent methodology and results. Very clear and precise presentation. Amazing work! More time spent on classification techniques would have been great.
+
+Good project overall. With rich results, a more in-depth discussion will be better."
+0,Good work exploring many different classification techniques. You could consider the use of language models in future work.
+1,"Very extensive experiment and well-explained, well done! My criticism would be that I wish you had gone a bit more in depth with your methods, perhaps spending less time discussing preprocessing. You utilize many interesting methods that I wish I could have heard more of the implementation of."
+2,The presentation covered all the basics. The comparison between methods were good. 
+3,Some slides are crowded and hard to understand. Would have liked a comparison between human success vs. machine success metrics.
+4,Total number of experiments performed using different models is good. Some of  the semantic approaches would also have made the work quite great. Trails on that can make the pitch stronger.
+5,"Presentation was very good, experiments were done in depth, good explanation, I was curious to see output from machine learning models. Team very well explained the framework for ML models jumped towards DL models. There was no mention of results from ML models."
+6,"I liked the concept but the models created seem to be a bit complicated. In the Results section, I was expecting a scenario with some textual input, model and the output which that model provides. This could have done atleast for the winning model, this could have given us a better understanding of the model."
+7,Could have given more pictorial representation of results.
+8,
+9,
+10,Ensemble models aren't exactly novel and combining multiple methods may not be considered novel. There is not much difference between accuracy of model 1A and Final model [1%]. Probably should use only model 1A due to significantly lower complexity and training cost. This will also reflect in prediction cost[compute].
+11,Explanation is very clear. Good work
+12,The application part needed just a little more stress.
+13,"The presentation was visually appealing and easy to maintain the focus throughout. However, the models sections was skimmed through fast to understand the depth of what work has been done so far. Overall good job in the work that was done"
+14,"For the results and conclusion, they could show the difference in performance of the various techniques used to showcase why did they conclude to go with their final model and how does it differ from the other modes
+"
+15,"They made a lot of diagrams, explaining the model principle and data flow very clearly."
+16,"It would be better if there are more explanations for the models, like why some models are used in concatenated layer but not in final prediction."
+17,
+18,Nicely explained.
+19,Goal of the presentation is explained well and steps to achieve goal is presented clearly. Overall it was a very good presentation.
+20,"The idea for reserach was very exciting and the presentation was well structured. To make their pitch stronger, they can explain their goal and motivation in more depth as it was not understandable in first viewing of the presentation. Also, they can try to increase their pace as the presentation was too technical and by being fast paced, it was somewhere hard to understand.  "
+21,"The team could spend more time explaining the different models used and why one works better than the other and why the Quora's benchmark model still performs better than all of them.
+
+The conclusion section should focus only on the one model that the results section proved to be the most optimal and not how different models can perform well by adding preprocessing steps."
+22,"Contextualize results of RMSE, what do they mean."
+23,"Preprocessing was explained in a easy to understand way with the help of illustrations. Good job in using pictorial representation of models for easy understanding. However, some more time could have been spent in describing the results and challenges"
+24,Good Job in putting the idea forward in minimalistic way. Some more time could have spent in explaining about the classification techniques and dataset distribution
+25,
+26,"You all did a great job presenting your work, and I really appreciate the details given to to the background, methods, and experiment setup. The only changes I would make would be to make the slides more visual and less crowded."
+27,
+28,"The problem statement was a bit unclear, it might be a good idea to explain the problem that is addressed more."
+29,"Too many different models were used in this project. Could have focused on a lesser number of models and tried to explore more with feature extraction, ensemble methods, etc."
